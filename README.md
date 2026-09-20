@@ -40,7 +40,7 @@ Go, Python, CUDA, Triton, K8s, vLLM, PyTorch, Ray
 
 ## Daily log
 
-Writing every day in docs/daily-log
+Writing every day in docs/daily-log.md
 
 ## Started
 

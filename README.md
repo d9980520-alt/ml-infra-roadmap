@@ -1,6 +1,6 @@
 # ML Infra Roadmap
 
-I'm 15. Working my way to AI Infra Architect.
+I'm 15.
 
 18 lists. 110 weeks.
 

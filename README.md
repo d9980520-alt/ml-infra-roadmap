@@ -28,4 +28,4 @@ I'm 15. Working my way to AI Infra Architect.
 - List 16 — ML Scheduler (7 weeks)
 - List 17 — System Design + ML SD + OSS (6 weeks)
 
-## Structure
+

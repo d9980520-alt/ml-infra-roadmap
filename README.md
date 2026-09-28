@@ -2,46 +2,30 @@
 
 I'm 15. Working my way to AI Infra Architect.
 
-This is my path: 18 lists, 18 repos, an ML scheduler and my own runtime at the end.
+18 lists. 110 weeks.
 
+## Base (Backend / Platform)
 
-## What I'm going through
+- List 1 — Go internals deep (4 weeks)
+- List 2 — Postgres + Redis deep (4 weeks)
+- List 3 — gRPC + Kafka + Docker (5 weeks)
+- List 4 — System Design basics (4 weeks)
+- List 5 — K8s + Helm + ArgoCD + CI/CD (6 weeks)
+- List 6 — Observability full (5 weeks)
+- List 7 — IaC + security (5 weeks)
+- List 8 — Cloud + networking + storage (5 weeks)
 
-**Base (Backend / Platform):**
-- List 1 — Go internals
-- List 2 — databases and caching
-- List 3 — architecture and infra
-- List 5 — performance
-- List 7 — observability
+## ML / AI Infra
 
-**ML / AI Infra:**
-- List 4 — Triton and GPU kernels
-- List 6 — PyTorch internals
-- List 8 — data engine
-- List 9 — GPU orchestration
-- List 10 — ML scheduler
-- List 11 — Nsight and GPU profiling
-- List 12 — Ray
-- List 13 — CUDA / Triton
-- List 14 — distributed training
-- List 15 — LLM inference
-- List 16 — MLOps
-- List 17 — TensorRT, ONNX
-- List 18 — open-source
+- List 9a — Linux + eBPF deep (7 weeks)
+- List 9b — Container runtime (7 weeks)
+- List 10 — Distributed systems deep (8 weeks)
+- List 11 — Math + PyTorch (5 weeks)
+- List 12 — CUDA / Triton (5 weeks)
+- List 13 — vLLM + inference (9 weeks)
+- List 14 — Distributed training (6 weeks)
+- List 15 — GPU + MLOps (6 weeks)
+- List 16 — ML Scheduler (7 weeks)
+- List 17 — System Design + ML SD + OSS (6 weeks)
 
-## Flagships
-
-- ML Scheduler — combines lists 1–15
-- Mini Runtime — my own container runtime
-
-## Stack
-
-Go, Python, CUDA, Triton, K8s, vLLM, PyTorch, Ray
-
-## Daily log
-
-Writing every day in [docs/daily-log](docs/daily-log).
-
-## Started
-
-23.09.2026
+## Structure

@@ -94,4 +94,4 @@ I'm 15. Building a complete foundation from high-load Go backend and cloud infra
 
 ## Daily log
 
-`docs/daily-log`
+- [Daily log](./docs/daily-log)
